@@ -14,11 +14,11 @@ margin: 50px auto ;
 max-width: 600px
 }
 header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
+background-color: #ffae42;
+color: #fff;
+padding: 20px 0;
+text-align: center;
+}
 
 }
 img {
