@@ -13,13 +13,12 @@ border-radius: 10px ;
 margin: 50px auto ;
 max-width: 600px
 }
-header
-{
-padding: 10px;
-backgroung-color: #C2B280;
-margin: 10px;
-max-width:200px; text-align: center; 
-
+header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
 
 }
 img {
@@ -30,7 +29,7 @@ img {
   text-align: center;
 }
 h1{
- text-align: center;
+font-size: 36px;
 }
 nav {
 background-color: #FFDB58;
