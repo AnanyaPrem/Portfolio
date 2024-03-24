@@ -18,7 +18,7 @@ header
 padding: 10px;
 backgroung-color: #C2B280;
 margin: 10px;
-max-width:50px; 
+max-width:200px; text-align: center; 
 
 
 }
@@ -59,7 +59,7 @@ max-height:30px;
 </head>
 <body>
 <div class="container"><header >
-Portfolio</header>
+<h1>Portfolio</h1></header>
 
 <nav>
     <a href="#about">About Me</a>
