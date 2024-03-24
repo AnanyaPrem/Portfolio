@@ -18,7 +18,7 @@ header
 padding: 10px;
 backgroung-color: #C2B280;
 margin: 10px;
-max-width:20px; 
+max-width:50px; 
 
 
 }
