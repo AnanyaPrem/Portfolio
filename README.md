@@ -14,8 +14,8 @@ margin: 50px auto ;
 max-width: 600px
 }
 header {
-background-color: #ffae42;
-color: #fff;
+background-color:#FFD700;
+color: #333;
 padding: 20px 0;
 text-align: center;
 }
