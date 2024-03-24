@@ -59,7 +59,7 @@ max-height:30px;
 </head>
 <body>
 <div class="container"><header >
-<h1>Portfolio</h1></header>
+Portfolio</header>
 
 <nav>
     <a href="#about">About Me</a>
